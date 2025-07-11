@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou o Vitor! 👋
 
-<!--
-**vitorcascor/vitorcascor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor full-stack com paixão por criar aplicações modernas, seguras e escaláveis. Minha experiência abrange tanto backend quanto frontend, com foco em entregar soluções que realmente funcionam e proporcionam boa experiência para o usuário.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias & Ferramentas que domino
+
+### Linguagens & Frameworks
+- 🐍 **Python** (Django, APIs REST)
+- ⚛️ **JavaScript / React.js** 
+- 🌐 **HTML5 & CSS3**
+
+### Banco de Dados
+- 🐘 **PostgreSQL** (modelagem e integração)
+
+### DevOps & Infraestrutura
+- 🐳 **Docker** (containerização de aplicações)
+- ☸️ **Kubernetes** (conceitos básicos e orquestração)
+
+### Frontend & Visualização
+- 🎨 **CSS frameworks** (TailwindCSS e outros)
+
+### Sistemas & Segurança
+- 🐧 **Linux (Fedora)** (administração e configuração)
+- 🔐 Fundamentos de **Redes** e **Cibersegurança**
