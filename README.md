@@ -4,7 +4,7 @@ Sou desenvolvedor full-stack com paixão por criar aplicações modernas, segura
 
 ---
 
-## 🚀 Tecnologias & Ferramentas que domino
+## 🚀 Tecnologias & Ferramentas 
 
 ### Linguagens & Frameworks
 - 🐍 **Python** (Django, APIs REST)
